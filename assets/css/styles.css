@@ -21,7 +21,6 @@ del tamaño definido en background-size.*/
       repeating-linear-gradient(rgba(0,0,0,0.2) 0 1px, transparent 1px 100%),
       repeating-linear-gradient(90deg, rgba(0,0,0,0.2) 0 1px, transparent 1px 100%);
     background-size: 50px 50px;
-    background-origin: content-box;
 }
 
 #cuadrado1 {
